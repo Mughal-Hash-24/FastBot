@@ -1,0 +1,115 @@
+Bachelor of Science (Computer Engineering)
+
+
+
+Those who have taken the HSSC or an equivalent examination and are awaiting result are also eligible to apply.The four-year undergraduate programs of full time study are divided into eight semesters.
+
+The mission of the Department of Computer Engineering is:  
+To prepare competent Computer Engineering graduates conscious of professional ethical and social responsibilities for productive engineering careers in industry academia and research both locally and abroad.
+
+This versatile degree opens careers in different areas of Electrical Engineering. You could pursue a career in telecom industry, electronics, and power sector or in embedded system design and software programming.
+
+For the award of Bachelor of Science (Computer Engineering) degree, a student must have:
+
+Computer Engineering Depth Electives (CEDE):
+
+Multi-Disciplinary Engineering Electives (MDEE):
+
+Note 1:Total:135Note 2:Registration in “Project-I” is allowed provided the student has
+    earned at least 95 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+Note 1:Total:135
+
+Note 2:Registration in “Project-I” is allowed provided the student has
+    earned at least 95 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+FAST-House
+
+Rohtas Road, G-9/4
+
+Islamabad - 44000
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 1 |
+| 1 | CS1009 Applications of ICT | 2+1 |
+| 2 | MT1001 Applied Calculus | 3+0 |
+| 3 | NS1007 Applied Physics | 2+1 |
+| 4 | ME1001 Engineering Drawing | 0+1 |
+| 5 | SS1007 Islamic Studies/Ethics | 2+0 |
+| 6 | SS1005 English Language Skills | 3+0 |
+| 7 | MG1008 Occupational Health and Safety | 1+0 |
+| Total | 13 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 2 |
+| 1 | EE1001 Linear Circuit Analysis | 3+1 |
+| 2 | CS1002 Programming Fundamentals | 3+1 |
+| 3 | EL1006 Engineering Workshop | 0+1 |
+| 4 | SS1013 Ideology and Constitution of Pakistan | 2+0 |
+| 5 | MT1009 Linear Algebra and Differential Equation | 4+0 |
+| 6 | SS3002 Civics and Community Engagement | 2+0 |
+| Total | 14 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 3 |
+| 1 | CS1004 Object Oriented Programming | 3+1 |
+| 2 | EE1004 Electronic Devices and Circuits | 3+1 |
+| 3 | EE2004 Electrical Network Analysis | 3+1 |
+| 4 | CS1005 Discrete Structures | 3+0 |
+| 5 | MT2003 Complex Variables and Transforms | 3+0 |
+| Total | 15 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 4 |
+| 1 | CS2002 Data Structures and Algorithms | 3+1 |
+| 2 | EE2008 Signals and Systems | 3+1 |
+| 3 | EE1005 Digital Logic Design | 3+1 |
+| 4 | MT2005 Probability and Statistics | 3+0 |
+| 5 | xxxxx Multi-Disciplinary Engineering Elective-I | 3+0 |
+| Total | 15 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 5 |
+| 1 | EE2003 Computer Organization & Assembly Language | 3+1 |
+| 2 | EE3031 Digital Signal Processing | 3+0 |
+| 3 | EE2007 Data Communication & Networks | 3+1 |
+| 4 | CS3009 Software Engineering | 3+0 |
+| 5 | CS2008 Numerical Computing | 3+0 |
+| Total | 15 + 2 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 6 |
+| 1 | EE3002 Microprocessor Interfacing and Programming | 3+1 |
+| 2 | CS2005 Database Systems | 3+1 |
+| 3 | CS2006 Operating Systems | 3+1 |
+| 4 | MG2002 Engineering Economics | 2+0 |
+| 5 | xxxx Multi-Disciplinary Engineering Elective-II | 3+0 |
+| Total | 14 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 7 |
+| 1 | EE4091 Final Year Project - I | 3+0 |
+| 2 | EE3033 Digital Design | 3+1 |
+| 3 | SS1005 Technical Communication Skills | 2+0 |
+| 4 | MG3036 Engineering Management | 2+0 |
+| 5 | CS4001 Professional Issues in IT | 3+0 |
+| 6 | EExxxx Computer Engineering Elective-I | 3+0 |
+| Total | 16 + 1 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 8 |
+| 1 | EE4092 Final Year Project - II | 3+0 |
+| 2 | SS2013 Entrepreneurship | 2+0 |
+| 3 | SS2007 Technical and Business Writing | 3+0 |
+| 4 | EExxxx Computer Engineering Elective-II | 3+0 |
+| 5 | EExxxx Computer Engineering Elective-III | 3+1 |
+| Total | 14 + 1 |
+
+| Domain | Cr. Hrs |
+| Computing | 18 |
+| Computer Engineering | 60 |
+| Other Engineering | 20 |
+| Management Sciences | 7 |
+| Natural Sciences | 16 |
+| Humanities | 14 |
+| Total | 135 |

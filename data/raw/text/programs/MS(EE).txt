@@ -1,0 +1,56 @@
+Master of Science (Electrical Engineering)
+
+
+
+The purpose of the MS program in Electrical Engineering is to attain theoretical and practical depth in one of the
+    areas of interest.The MS(EE) program is structured in such a way as to enhance the student's critical thinking
+    and intuitive abilities using a combination of highly specialized courses and expert supervision. The program
+    aims to produce graduates who will have the abilities and skills to be employed as practicing engineers in fields
+    such as design, research, development, testing, and manufacturing, as well as assuming positions of leadership
+    and responsibility within organizations.
+
+Three options:6-credit hour Thesis or 3 credit hour Project with one additional elective or MS by course work.
+
+Typical course load in a semester is four courses. However, NUCES staff cannot register for more than two courses in a semester.
+
+For the award of MS degree, a student must have:
+
+Core Courses for Electrical Engineering:(Any THREE of the following courses must be passed)
+
+Courses for Computer Systems Stream:
+
+Note 1:Registration in “MS Thesis - I” is allowed provided the student has:Earned at least 15 creditsPassed the “Research Methodology” courseCGPA is equal to or more than 2.5
+
+Note 1:Registration in “MS Thesis - I” is allowed provided the student has:
+
+FAST-House
+
+Rohtas Road, G-9/4
+
+Islamabad - 44000
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 1 |
+| 1 | EExxxx Core Course-I | 3+0 |
+| 2 | EExxxx Core Course-II | 3+0 |
+| 3 | EE5011 Research Methodology | 3+0 |
+| Total | 9 + 0 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 2 |
+| 1 | EExxxx Core Course-III | 3+0 |
+| 2 | EExxxx Elective-I | 3+0 |
+| 3 | EExxxx Elective-II | 3+0 |
+| Total | 9 + 0 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 3 |
+| 1 | EExxxx Elective-III | 3+0 |
+| 2 | EE5091 MS Thesis-I/Elective-IV | 0+3 |
+| Total | 3 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 4 |
+| 1 | EExxxx Elective-V | 3+0 |
+| 2 | EE5092 MS Thesis-II/MS Project/Elective-VI | 0+3 |
+| Total | 3 + 3 |

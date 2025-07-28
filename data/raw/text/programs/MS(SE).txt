@@ -1,0 +1,84 @@
+Master of Science (Software Engineering)
+
+
+
+The MS Software Engineering curriculum has been designed to give the students a good understanding of best software engineering methodologies and practices, emerging technologies, and their application in various industries. The goal of the program is to teach students to become leaders in engineering high quality computing solutions to solve real life problems by conducting high quality applied research.
+
+The following core courses are recommended to be completed before entering the MS (SE) program.
+
+A student selected for admission having deficiency in the above stated courses may be required to study a maximum of FOUR courses. These courses must be passed in the first two semesters. Deficiency courses shall be determined by the Graduate Studies Committee, before admitting the student.No fee is charged for studying deficiency courses. A student cannot take MS courses unless all specified deficiency courses have been passed.
+
+Typical course load in a semester is four courses. However, NUCES staff cannot register for more than two courses in a semester. For successful completion of the MS SE degree, the student must undertake a 6 credit hour MS Project, spread over two regular semesters.
+
+For the award of MS degree, a student must have:
+
+Note 1:Applied Programming course is of No Credit (NC), but it must be passed.Note 2:Registration in “MS Thesis - I” is allowed provided the student has:Earned at least 15 creditsPassed the “Research Methodology” courseCGPA is equal to or more than 2.5
+
+Note 1:Applied Programming course is of No Credit (NC), but it must be passed.
+
+Note 2:Registration in “MS Thesis - I” is allowed provided the student has:
+
+1
+
+Knowledge of Data Science
+
+Have an advanced, and coherent disciplinary and interdisciplinary knowledge ofData Science technologies,and research principles and methods.
+
+2
+
+Critical Thinking, Design Thinking and Decision-Making Skills
+
+Develop problem solving, design and decision-making skills to identify and provide innovative solutions tocomplex Data problemsthrough application of related technologies and techniques.
+
+3
+
+Ethics and Social Responsibility
+
+Demonstrate mindfulness of professional practices in a global and sustainable context and act with professional accountability and integrity.
+
+4
+
+Research Methods Competence
+
+Apply knowledge of research principles and methods to plan and execute a research-based practical project with personal autonomy and accountability.
+
+5
+
+Communication Skills
+
+Interpret, document and present the core issues, problem statements, evaluation reviews, requirements and findings in developingData Science research work.
+
+FAST-House
+
+Rohtas Road, G-9/4
+
+Islamabad - 44000
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 1 |
+| 1 | Applied Programming 1 | NC |
+| 2 | Adv. Software Requirements Engineering | 3+0 |
+| 3 | Adv. Quality Assurance | 3+0 |
+| 4 | Computing Elective-I | 3+0 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 2 |
+| 1 | Adv. Software Architecture | 3+0 |
+| 2 | Computing Elective-II | 3+0 |
+| 3 | Research Methodology | 3+0 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 3 |
+| 1 | Computing Elective-III | 3+0 |
+| 2 | MS Thesis-I/MS Project-I | 0+3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| Semester 4 |
+| 1 | Computing Elective-IV | 3+0 |
+| 2 | MS Thesis-II/MS Project-II | 0+3 |
+
+| 1 | Knowledge of Data Science | Have an advanced, and coherent disciplinary and interdisciplinary knowledge ofData Science technologies,and research principles and methods. |
+| 2 | Critical Thinking, Design Thinking and Decision-Making Skills | Develop problem solving, design and decision-making skills to identify and provide innovative solutions tocomplex Data problemsthrough application of related technologies and techniques. |
+| 3 | Ethics and Social Responsibility | Demonstrate mindfulness of professional practices in a global and sustainable context and act with professional accountability and integrity. |
+| 4 | Research Methods Competence | Apply knowledge of research principles and methods to plan and execute a research-based practical project with personal autonomy and accountability. |
+| 5 | Communication Skills | Interpret, document and present the core issues, problem statements, evaluation reviews, requirements and findings in developingData Science research work. |
