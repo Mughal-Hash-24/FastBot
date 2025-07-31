@@ -1,0 +1,203 @@
+## Bachelor of Science (Computer Science)
+
+1. Home
+2. Admissions
+3. BS(CS) - Program Details
+
+Those who have taken the HSSC or an equivalent examination and are awaiting result are also eligible to apply.The four-year undergraduate programs of full time study are divided into eight semesters.
+
+1. Impart in-depth understanding of Computer Science field according to international standards
+2. Convert understanding to innovations
+3. Build diverse careers in Computer Science as productive IT professionals  and entrepreneurs for the socio-economic development
+4. Prepare students for the graduate level studies and research
+5. Develop effective communication, management and leadership skills
+6. Impart professional ethics and collaborative team player abilities
+
+Your career prospects will be excellent: You may become a software engineer, programmer, web developer, games programmer or computer graphic designer.
+
+For the award of BS (Computer Science) degree, a student must have:
+
+- Passed courses totalling at least 133 credit hours, including all those courses which have been specified as Core courses.
+- Obtained a CGPA of at least 2.00
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 1 |
+| 1 | CL1000 Introduction to Information and Communication Technology | 0+1 |
+| 2 | CS1002 Programming Fundamentals | 3+1 |
+| 3 | NS1001 Applied Physics | 3+0 |
+| 4 | MT1003 Calculus amd Analytical Geometry | 3+0 |
+| 5 | SS1012 Functional English | 2+1 |
+| 6 | SS1013 Ideology and Constitution of Pakistan | 2+0 |
+| Total | 13 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 2 |
+| 1 | CS1004 Object Oriented Programming | 3+1 |
+| 2 | EE1005 Digital Logic Design | 3+1 |
+| 3 | MT1006 Multivariable Calculus | 3+0 |
+| 4 | SS1007 Islamic Studies/Ethics | 2+0 |
+| 5 | SS1014 Expository Writing | 2+1 |
+| Total | 13 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 3 |
+| 1 | CS2001 Data Structures | 3+1 |
+| 2 | EE2003 Computer Organization and Assembly Language | 3+1 |
+| 3 | CS1005 Discrete Structures | 3+0 |
+| 4 | MT1004 Linear Algebra | 3+0 |
+| 5 | SS/MGxxxx SS/MG Elective - I | 2+0 |
+| 6 | SS3002 Civics and Community Engagement | 2+0 |
+| Total | 16 + 2 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 4 |
+| 1 | CS2005 Database Systems | 3+1 |
+| 2 | CS2006 Operating Systems | 3+1 |
+| 3 | S2007 Technical and Business Writing | 3+0 |
+| 4 | MT2005 Probability and Statistics | 3+0 |
+| 5 | SS/MGxxxx SS/MG Elective - II | 3+0 |
+| 6 | CSxxxx Computing Internship | 0+1 |
+| Total | 15 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 5 |
+| 1 | CS3005 Theory of Automata | 3+0 |
+| 2 | CS3001 Computer Networks | 3+1 |
+| 3 | CS3004 CS Elective - I | 3+0 |
+| 4 | CS2009 Design and Analysis of Algorithms | 3+0 |
+| 5 | CSxxxx CS Elective - II | 3+0 |
+| Total | 15 + 1 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 6 |
+| 1 | CS3009 Software Engineering | 3+0 |
+| 2 | EE2013 Computer Architecture | 3+0 |
+| 3 | CSxxxx CS Elective - III | 3+0 |
+| 4 | AI2002 Artificial Intelligence | 3+1 |
+| 5 | CS3014 Applied Human Computer Interaction | 3+0 |
+| Total | 15 + 1 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 7 |
+| 1 | CS4091 Final Year Project-I | 0+3 |
+| 2 | CS3002 Information Security | 3+0 |
+| 3 | CSxxxx CS Elective - IV | 3+0 |
+| 4 | CS4001 Professional Practices | 3+0 |
+| 5 | CS4031 Compiler Construction | 3+0 |
+| 6 | CS4081 Parallel and Distributed Computing | 3+0 |
+| Total | 15 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 8 |
+| 1 | CS4092 Final Year Project-II | 0+3 |
+| 2 | CS3002 Entrepreneurship | 3+0 |
+| 3 | CSxxxx CS Elective - V | 3+0 |
+| 4 | CSxxxx CS Elective - VI | 3+0 |
+| 5 | CS4087 Advanced Database Management System | 3+0 |
+| Total | 12 + 3 |
+
+| Domain | Cr. Hrs |
+| :-- | :-- |
+| Computing Core | 52 |
+| General Education | 30 |
+| Maths and Supporting Courses | 12 |
+| Domain Core | 18 |
+| Domain Elective | 18 |
+| Elective Supportive Courses | 3 |
+| Total | 133 |
+
+Note 1:Total:133Note 2:Registration in “Project-I” is allowed provided the student has earned at least 92 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+Note 1:Total:133
+
+Note 2:Registration in “Project-I” is allowed provided the student has earned at least 92 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+1. PO 1: Fundamental Computing Knowledge & Continuous Improvement:Demonstrate proficiency in applying acquired computing knowledge to fulfill professional responsibilities effectively and actively seek opportunities to explore emerging fields, advancements and research in computing to enhance organizational outcomes.
+2. PO 2: Ethical and Societal Responsibilities:Demonstrate a commitment to integrating ethical principles and societal concerns into their professional practices and decision making.
+3. PO 3: Communication Skills and Leadership:Proficiently communicate technical and managerial information, both orally and in writing, while effectively leading assigned groups/teams or operating in entrepreneurial environments.
+
+| 1 | Academic Education | Completion of an accredited program (BS CS)of study designed to prepare graduates as computing professionals |
+| :-- | :-- | :-- |
+| 2 | Knowledge for Solving Computing Problems | Apply knowledge of computing fundamentals, knowledge of a computing specialization, and mathematics, science, and domain knowledge appropriate for the computing specialization to the abstraction and conceptualization of computing models from defined problems and requirements |
+| 3 | Problem Analysis | Identify, formulate, research literature, and solve complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing sciences, and relevant domain disciplines |
+| 4 | Design/ Development of Solutions | Design and evaluate solutions for complex computing problems, and design and evaluate systems, components, or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations |
+| 5 | Modern Tool Usage | Create, select, adapt and apply appropriate techniques, resources, and modern computing tools to complex computing activities, with an understanding of the limitations |
+| 6 | Individual and Team Work | Function effectively as an individual and as a member or leader in diverse teams and in multi-disciplinary settings |
+| 7 | Communication | Communicate effectively with the computing community and with society at large about complex computing activities by being able to comprehend and write effective reports, design documentation, make effective presentations, and give and understand clear instructions |
+| 8 | Computing Professionalism and Society | Understand and assess societal, health, safety, legal, and cultural issues within local and global contexts, and the consequential responsibilities relevant to professional computing practice |
+| 9 | Ethics | Understand and commit to professional ethics, responsibilities, and norms of professional computing practice |
+| 10 | Life-long Learning | Recognize the need, and have the ability, to engage in independent learning for continual development as a computing professional |
+
+1
+
+Academic Education
+
+Completion of an accredited program (BS CS)of study designed to prepare graduates as computing professionals
+
+2
+
+Knowledge for Solving Computing Problems
+
+Apply knowledge of computing fundamentals, knowledge of a computing specialization, and mathematics, science, and domain knowledge appropriate for the computing specialization to the abstraction and conceptualization of computing models from defined problems and requirements
+
+3
+
+Problem Analysis
+
+Identify, formulate, research literature, and solve complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing sciences, and relevant domain disciplines
+
+4
+
+Design/ Development of Solutions
+
+Design and evaluate solutions for complex computing problems, and design and evaluate systems, components, or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations
+
+5
+
+Modern Tool Usage
+
+Create, select, adapt and apply appropriate techniques, resources, and modern computing tools to complex computing activities, with an understanding of the limitations
+
+6
+
+Individual and Team Work
+
+Function effectively as an individual and as a member or leader in diverse teams and in multi-disciplinary settings
+
+7
+
+Communication
+
+Communicate effectively with the computing community and with society at large about complex computing activities by being able to comprehend and write effective reports, design documentation, make effective presentations, and give and understand clear instructions
+
+8
+
+Computing Professionalism and Society
+
+Understand and assess societal, health, safety, legal, and cultural issues within local and global contexts, and the consequential responsibilities relevant to professional computing practice
+
+9
+
+Ethics
+
+Understand and commit to professional ethics, responsibilities, and norms of professional computing practice
+
+10
+
+Life-long Learning
+
+Recognize the need, and have the ability, to engage in independent learning for continual development as a computing professional
+
+FAST-House
+
+Rohtas Road, G-9/4
+
+Islamabad - 44000

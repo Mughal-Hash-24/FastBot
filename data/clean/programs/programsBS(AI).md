@@ -1,0 +1,193 @@
+## Bachelor of Science (Artificial Intelligence)
+
+1. Home
+2. Admissions
+3. BS(AI) - Program Details
+
+Those who have taken the HSSC or an equivalent examination and are awaiting result are also eligible to apply.The four-year undergraduate programs of full time study are divided into eight semesters.
+
+For the award of BS (Artificial Intelligence) degree, a student must have:
+
+- Passed courses with a total of at least 133 credit hours, including all those courses that have been specified as core courses
+- Obtained a CGPA of at least 2.00
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 1 |
+| 1 | CL1001 Introduction to Information and Communication Technology | 0+1 |
+| 2 | CS1002 Programming Fundamentals | 3+1 |
+| 3 | NS1001 Applied Physics | 3+0 |
+| 4 | MT1003 Calculus and Analytical Geometry | 3+0 |
+| 5 | SS1012 Functional English | 2+1 |
+| 6 | SS1013 Ideology and Constitution of Pakistan | 2+0 |
+| Total | 13 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 2 |
+| 1 | CS1004 Object Oriented Programming | 3+1 |
+| 2 | EE1005 Digital Logic Design | 3+1 |
+| 3 | MT1006 Multivariable Calculus | 3+0 |
+| 4 | SS1007 Islamic Studies/ Ethics | 2+0 |
+| 5 | SS1014 Expository Writing | 2+1 |
+| Total | 13 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 3 |
+| 1 | CS2001 Data Structures | 3+1 |
+| 2 | MT1004 Linear Algebra | 3+0 |
+| 3 | AI2001 Programming for Artificial Intelligence | 3+1 |
+| 4 | CS1005 Discrete Structures | 3+0 |
+| 5 | MT2005 Probability and Statistics | 3+0 |
+| 6 | SSxxxx Computing Internship | 0+1 |
+| Total | 15 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 4 |
+| 1 | CS2005 Database Systems | 3+1 |
+| 2 | AI2002 Artificial Intelligence | 3+1 |
+| 3 | EE2003 Computer Organization and Assembly Language | 3+1 |
+| 4 | CS2004 Fundamentals of Software Engineering | 3+0 |
+| 5 | SS/MG Elective - I | 2+0 |
+| 6 | SS3002 Civics and Community Engagement | 2+0 |
+| Total | 16 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 5 |
+| 1 | AI3002 Machine Learning | 3+1 |
+| 2 | AI3001 Knowledge Representation & Reasoning | 3+0 |
+| 3 | CS2006 Operating Systems | 3+1 |
+| 4 | CS2004 Design and Analysis of Algorithms | 3+0 |
+| 5 | SS2007 Technical and Business Writing | 3+0 |
+| Total | 15 + 2 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 6 |
+| 1 | AI3003 Artificial Neural Networks | 3+0 |
+| 2 | AI3001 Parallel & Distributed Computing | 3+0 |
+| 3 | CS3001 Computer Networks | 3+1 |
+| 4 | AIxxxx AI Elective - I | 3+0 |
+| 5 | AIxxxx AI Elective - II | 3+0 |
+| Total | 15 + 1 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 7 |
+| 1 | AI4091 Final Year Project – I | 0+3 |
+| 2 | AI4002 Computer Vision | 3+1 |
+| 3 | AIxxxx AI Elective - III | 3+0 |
+| 4 | AIxxxx AI Elective - IV | 3+0 |
+| 5 | SS/MG Elective - II | 3+0 |
+| Total | 12 + 4 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 8 |
+| 1 | AI4092 Final Year Project – II | 0+3 |
+| 2 | CS3002 Information Security | 3+0 |
+| 3 | CS3002 Entrepreneurship | 3+0 |
+| 4 | CS4001 Professional Practices | 3+0 |
+| 5 | AIxxxx AI Elective - V | 3+0 |
+| Total | 12 + 3 |
+
+| Domain | Cr. Hrs |
+| :-- | :-- |
+| Computing Core | 52 |
+| General Education | 30 |
+| Maths and Supporting Courses | 12 |
+| Domain Core | 21 |
+| Domain Elective | 15 |
+| Elective Supportive Courses | 3 |
+| Total | 133 |
+
+Note 1:Total:133Note 2:Registration in “Project-I” is allowed provided the student has earned at least 94 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+Note 1:Total:133
+
+Note 2:Registration in “Project-I” is allowed provided the student has earned at least 94 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+1. PO 1: Fundamental Computing Knowledge & Continuous Improvement:Demonstrate proficiency in applying acquired computing knowledge to fulfill professional responsibilities effectively and actively seek opportunities to explore emerging fields, advancements and research in computing to enhance organizational outcomes.
+2. PO 2: Ethical and Societal Responsibilities:Demonstrate a commitment to integrating ethical principles and societal concerns into their professional practices and decision making.
+3. PO 3: Communication Skills and Leadership:Proficiently communicate technical and managerial information, both orally and in writing, while effectively leading assigned groups/teams or operating in entrepreneurial environments.
+
+| 1 | Academic Education | Completion of an accredited program (BS AI) of study designed to prepare graduates as computing professionals |
+| :-- | :-- | :-- |
+| 2 | Knowledge for Solving Computing Problems | Apply knowledge of computing fundamentals, knowledge of a computing specialization, and mathematics, science, and domain knowledge appropriate for the computing specialization to the abstraction and conceptualization of computing models from defined problems and requirements |
+| 3 | Problem Analysis | Identify, formulate, research literature, and solve complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing sciences, and relevant domain disciplines |
+| 4 | Design/ Development of Solutions | Design and evaluate solutions for complex computing problems, and design and evaluate systems, components, or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations |
+| 5 | Modern Tool Usage | Create, select, adapt and apply appropriate techniques, resources, and modern computing tools to complex computing activities, with an understanding of the limitations |
+| 6 | Individual and Team Work | Function effectively as an individual and as a member or leader in diverse teams and in multi-disciplinary settings |
+| 7 | Communication | Communicate effectively with the computing community and with society at large about complex computing activities by being able to comprehend and write effective reports, design documentation, make effective presentations, and give and understand clear instructions |
+| 8 | Computing Professionalism and Society | Understand and assess societal, health, safety, legal, and cultural issues within local and global contexts, and the consequential responsibilities relevant to professional computing practice |
+| 9 | Ethics | Understand and commit to professional ethics, responsibilities, and norms of professional computing practice |
+| 10 | Life-long Learning | Recognize the need, and have the ability, to engage in independent learning for continual development as a computing professional |
+
+1
+
+Academic Education
+
+Completion of an accredited program (BS AI) of study designed to prepare graduates as computing professionals
+
+2
+
+Knowledge for Solving Computing Problems
+
+Apply knowledge of computing fundamentals, knowledge of a computing specialization, and mathematics, science, and domain knowledge appropriate for the computing specialization to the abstraction and conceptualization of computing models from defined problems and requirements
+
+3
+
+Problem Analysis
+
+Identify, formulate, research literature, and solve complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing sciences, and relevant domain disciplines
+
+4
+
+Design/ Development of Solutions
+
+Design and evaluate solutions for complex computing problems, and design and evaluate systems, components, or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations
+
+5
+
+Modern Tool Usage
+
+Create, select, adapt and apply appropriate techniques, resources, and modern computing tools to complex computing activities, with an understanding of the limitations
+
+6
+
+Individual and Team Work
+
+Function effectively as an individual and as a member or leader in diverse teams and in multi-disciplinary settings
+
+7
+
+Communication
+
+Communicate effectively with the computing community and with society at large about complex computing activities by being able to comprehend and write effective reports, design documentation, make effective presentations, and give and understand clear instructions
+
+8
+
+Computing Professionalism and Society
+
+Understand and assess societal, health, safety, legal, and cultural issues within local and global contexts, and the consequential responsibilities relevant to professional computing practice
+
+9
+
+Ethics
+
+Understand and commit to professional ethics, responsibilities, and norms of professional computing practice
+
+10
+
+Life-long Learning
+
+Recognize the need, and have the ability, to engage in independent learning for continual development as a computing professional
+
+FAST-House
+
+Rohtas Road, G-9/4
+
+Islamabad - 44000

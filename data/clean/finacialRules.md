@@ -1,0 +1,129 @@
+1. Home
+2. Student
+3. FinancialRules
+
+The fee is charged on Semester basis and it becomes due two weeks earlier than the start of a semester at the time of course registration.
+
+Fees are paid in the bank through bank challan available in Accounts Office/Flex.
+
+All fees are non-refundable (except security deposit) and also the University reserves the right to review the fee structure from time to time. Any revision of fees would be uniformly applicable to all students of the University.
+
+FAST, being a non-profit organization, charges subsidized fees from all its students. Realizing that even the subsidized fee may not be affordable for some of its students. FAST tries to arrange need-based financial assistance in the form of loan for such indigent students. This assistance is subject to renewal every semester in the light of the student's academic performance and financial need. The financial assistance is limited to tuition fees only and is discontinued if the student's CGPA falls below 2.00 for undergraduate degree and 2.5 for graduate degree.
+
+The repayment of loan starts three months after graduation or getting a job, whichever is earlier. The total amount has to be repaid within a period of four years after graduation. Students are required to sign to this effect.
+
+All those who are admitted and are in real need of financial assistance should apply on the prescribed Financial Aid form. A notice to this effect will be posted on the notice board.
+
+## Internal Sponsorships
+
+## External Sponsorships
+
+Merit scholarship is awarded to the Top Three position holders of each Examination Board.Scholarship is also offered to top three position holders in the NU admission merit list of each campus.Students awarded merit Scholarship, 100% tuition fee for 8 regular
+semesters must maintain a CGPA of ≥
+3.00 in each semester.
+
+- Merit scholarship is awarded to the
+Top Three position holders of each
+Examination Board.
+- Scholarship is also offered to top three
+ position holders in the NU admission
+merit list of each campus.
+- Students awarded merit Scholarship,
+100% tuition fee for 8 regular
+semesters must maintain a CGPA of ≥
+3.00 in each semester.
+
+Awarded as per provincial laws and regulation.Sindh Government Endowment Board
+ScholarshipsPunjab Educational Endowment Fund
+(PEEF) ScholarshipsBaluchistan Government Endowment
+Board Scholarship
+
+- Awarded as per provincial laws and regulation.
+- Sindh Government Endowment Board
+Scholarships
+- Punjab Educational Endowment Fund
+(PEEF) Scholarships
+- Baluchistan Government Endowment
+Board Scholarship
+
+Realizing that the fees may not be affordable for some of its students, FAST arranges financial assistance in the form of interest-free, need-based study loans for bright indigent students.This assistance is subject to renewal every semester in light of the student’s academic performance. Financial assistance is limited to tuition fee only and is discontinued if the student’s CGPA falls below the minimum specified to avoid warning. Loan recipients MUST take full load of courses offered.
+
+- Realizing that the fees may not be affordable for some of its students, FAST arranges financial assistance in the form of interest-free, need-based study loans for bright indigent students.This assistance is subject to renewal every semester in light of the student’s academic performance. Financial assistance is limited to tuition fee only and is discontinued if the student’s CGPA falls below the minimum specified to avoid warning. Loan recipients MUST take full load of courses offered.
+
+The Higher Education Commission
+(HEC) provides liberal scholarships to
+students desirous of studying for MS and
+PhD degrees at this university. The
+scholarship covers tuition fee, monthly
+stipend, and book allowance.
+
+Internal sponsorships are available for
+Studying in regular semesters (spring
+and Fall). Following is the maximum number of semesters for which it can
+be availed.Bachelors8 semestersMasters4 semestersPhD6 semestersIt shall not be available for repeat or
+withdrawn course. This implies that it
+is available for studying a course only
+once.It is suspended if the student’s CGPA
+falls below the minimum specified to
+avoid warning and shall be restored
+upon getting out of warning by
+improvement in CGPA.It shall be, limited to tuition fee only.
+
+- Internal sponsorships are available for
+
+    Studying in regular semesters (spring
+
+    and Fall). Following is the maximum number of semesters for which it can
+
+    be availed.Bachelors8 semestersMasters4 semestersPhD6 semesters
+- It shall not be available for repeat or
+
+    withdrawn course. This implies that it
+
+    is available for studying a course only
+
+    once.
+- It is suspended if the student’s CGPA
+
+    falls below the minimum specified to
+
+    avoid warning and shall be restored
+
+    upon getting out of warning by
+
+    improvement in CGPA.
+- It shall be, limited to tuition fee only.
+
+| Bachelors | 8 semesters |
+| :-- | :-- |
+| Masters | 4 semesters |
+| PhD | 6 semesters |
+
+
+- OSAF (Old Students Association of
+FAST) arranges financial assistance for
+those students who cannot afford to pay their full fee.
+
+
+- FAST Alumni of North America provide
+funds for financial assistance for students
+ who cannot afford to pay their full fee.
+
+- Ihsan Trust financial assistance for students who cannot afford to pay their
+full fee.
+
+In addition to the above scholarships there
+are various community-based
+scholarships offered by various
+ committees and foundations such as,
+Memon Community Scholarships, Bohra
+ Community Scholarships, Agha Khan
+Foundation Scholarships, Ihsan Trust
+ Sponsorship, General Refaqat Memorial
+Scholarship, etc.
+
+FAST-House
+
+Rohtas Road, G-9/4
+
+Islamabad - 44000

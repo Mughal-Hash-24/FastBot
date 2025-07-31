@@ -1,0 +1,164 @@
+## Bachelor of Science (Financial Technology)
+
+1. Home
+2. Admissions
+3. BS(FinTech) - Program Details
+
+Those who have taken the HSSC or an equivalent examination and are awaiting result are also eligible to apply.The four-year undergraduate programs of full time study are divided into eight semesters.
+
+FinTech (Financial Technology) is a rapidly growing industry that employs technology to improve financial activity. Through the increasing integration of technology, algorithms, data, and mobile applications, has disrupted the traditional delivery of financial services. FinTech is now regarded as one of the most important industries in the global economy. FinTech has created a surge in
+
+    demand for people with extensive knowledge of finance, mathematics, programming, analytics,
+
+    data science, applied statistics, and regulatory and compliance. With recent initiatives such as the
+
+    formation of Fintech Associations, as well as the flexibility provided by the regulator, there
+
+    appears to be a strong push to kick-start the country's Fintech Ecosystem and contribute to a
+
+    conducive environment for Fintechs to thrive in Pakistan. Such trend generated the need of the
+
+    specialized people for this particular requirement. FAST National University of Computer and
+
+    Emerging Sciences Islamabad, being the technology-based university, is now a pioneer institution
+
+    to introduce BS Degree in Financial Technology. This degree program includes not only traditional
+
+    finance coursework, but also in-depth knowledge and understanding of FinTech theories and
+
+    evolution, data-driven financial modelling, financial data mining and machine learning, financial
+
+    data analytics, and new financial innovations such as AI, blockchain, cloud computing, and
+
+    machine learning. The program's main purpose is to prepare financial professionals with the edge
+
+    of programming and technological skills which provide competitive edge to students in the market.
+
+    This program is for students who want to learn how to use modern tools to improve financial
+
+    activities, create new financial applications, processes, products, or business models.
+
+There are various career paths that can be pursued after completing the FinTech program such
+
+    investment banking, wealth management, international finance, commercial banking, insurance,
+
+    information technology, social entrepreneurship, etc. Graduates may work for FinTech startups as
+
+    well which concentrate on alternative lending, cryptocurrency management, and trading,
+
+    blockchain technologies, open banking, insurtech, Robo-advisement, machine learning, and data
+
+    mining applications, and cybersecurity. Some may work for traditional financial services
+
+    companies, which are in need of staff with technical skillsets to improve existing business practices
+
+    and/or develop new processes related to technological innovations.
+
+For the award of BS (FinTech) degree, a student must have:
+
+- Passed courses totaling at least 134 credit hours, including all those courses which have been specified as Core courses
+- Obtained a CGPA of at least 2.00
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 1 |
+| 1 | CS1001 IT in Business | 2+1 |
+| 2 | AF1001 Fundamental of Accounting | 3+0 |
+| 3 | MT1002 Business Math - I | 3+0 |
+| 4 | MG1002 Marketing Management | 3+0 |
+| 5 | SS1016 English – I | 2+1 |
+| 6 | SS1007 Islamic Studies/Ethics | 2+0 |
+| Total | 15 + 2 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 2 |
+| 1 | AF1002 Financial Accounting | 3+1 |
+| 2 | MG1001 Fundamental of Management | 3+0 |
+| 3 | CS2016 Programming for Business | 3+1 |
+| 4 | MG2008 Data Analysis for Business - I | 3+0 |
+| 5 | SS1006 English – II | 3+1 |
+| Total | 15 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 3 |
+| 1 | SS2019/SS2018 Psychology/Sociology | 2+0 |
+| 2 | AF2004 Business Finance | 3+0 |
+| 3 | CS2012 Introduction to Object Oriented Programming | 3+1 |
+| 4 | MT2004 Business Math - II | 3+0 |
+| 5 | SS2002 Microeconomics | 3+0 |
+| 6 | SS2042 Community Services | 2+0 |
+| Total | 16 + 1 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 4 |
+| 1 | MG2009 Data Analysis for Business - II | 3+1 |
+| 2 | MG3015 Environmental Science and Sustainability for Business | 3+0 |
+| 3 | SS2038 Critical Thinking | 2+0 |
+| 4 | CS2013 Introduction to Database Systems | 3+1 |
+| 5 | AF3001 Financial Management | 3+1 |
+| 6 | SS1013 Constitution and Ideology of Pakistan | 2+0 |
+| Total | 16 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 5 |
+| 1 | SS2006 Macroeconomics | 3+0 |
+| 2 | MG3003 Basic Econometrics | 3+1 |
+| 3 | MG3012 Blockchain Technology for Business | 3+0 |
+| 4 | CS3011 Enterprise Information System | 3+0 |
+| 5 | MG4011 Entrepreneurship | 3+0 |
+| Total | 15 + 1 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 6 |
+| 1 | CS3010 Web Programming | 3+1 |
+| 2 | AF3008 Business Research and Data Mining | 3+1 |
+| 3 | MG3002 Business Law | 3+0 |
+| 4 | AF3003 Financial Markets and Institution | 3+0 |
+| 5 | MG2010 Business Communication | 3+0 |
+| Total | 15 + 2 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 7 |
+| 1 | AF4011 Investment and Portfolio Analytics | 3+0 |
+| 2 | MGxxxx MG/AF/BA Elective - I | 3+0 |
+| 3 | MGxxxx MG/AF/BA Elective - II | 3+0 |
+| 4 | MG4052 Internship | 3+0 |
+| 5 | MG4091 Final Year Project - I | 0+3 |
+| Total | 12 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 8 |
+| 1 | AF4012 Financial Risk Analytics and Derivatives | 3+0 |
+| 2 | AF4013 Artificial Intelligence in Business Decision | 3+0 |
+| 3 | MGxxxx MG/AF/BA Elective - III | 3+0 |
+| 4 | MGxxxx MG/AF/BA Elective - IV | 3+0 |
+| 5 | MG4092 Final Year Project - II | 0+3 |
+| Total | 12 + 3 |
+
+| Domain | Cr. Hrs |
+| :-- | :-- |
+| General Education | 30 |
+| Disciplinary Major | 83 |
+| Interdisciplinary | 12 |
+| Field Experience | 3 |
+| Capstone Project | 6 |
+| Total | 134 |
+
+Note 1:Total:134Note 2:Registration in “Project-I” is allowed provided the student has earned at least 104 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+Note 1:Total:134
+
+Note 2:Registration in “Project-I” is allowed provided the student has earned at least 104 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+FAST-House
+
+Rohtas Road, G-9/4
+
+Islamabad - 44000

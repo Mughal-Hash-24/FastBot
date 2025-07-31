@@ -1,0 +1,165 @@
+## Bachelor of Science (Electrical Engineering)
+
+1. Home
+2. Admissions
+3. BS(EE) - Program Details
+
+Those who have taken the HSSC or an equivalent examination and are awaiting result are also eligible to apply.The four-year undergraduate programs of full time study are divided into eight semesters.
+
+The mission of School of Electrical Engineering is to provide graduates with a strong and stable foundation in the
+
+    traditional and contemporary areas of electrical engineering. The graduates of this program are able to conceive,
+
+    formulate and effectively communicate solutions to technological problems in society. They are a responsible and
+
+    productive member of the society upholding high moral standards having an aptitude and attitude towards the
+
+    betterment of the society through their knowledge and skills. The undergraduate programs prepare the graduates for
+
+    corporate and governmental entry level jobs and/or to pursue further education at the graduate level worldwide.
+
+This versatile degree opens careers in different areas of electrical engineering. You could specialize in telecom or
+
+    computer engineering. You could pursue a career in telecom industry, in embedded system design, or as a software
+
+    programmer.Award of DegreeFor the award of BS (Electrical Engineering) degree, a student must have:Passed courses totalling at least 138 credit hours, including all those courses which have been specified as
+
+        Core courses.Obtained a CGPA of at least 2.00
+
+Award of DegreeFor the award of BS (Electrical Engineering) degree, a student must have:Passed courses totalling at least 138 credit hours, including all those courses which have been specified as
+
+        Core courses.Obtained a CGPA of at least 2.00
+
+For the award of BS (Electrical Engineering) degree, a student must have:
+
+- Passed courses totalling at least 138 credit hours, including all those courses which have been specified as
+
+        Core courses.
+- Obtained a CGPA of at least 2.00
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 1 |
+| 1 | CS1009 Applications of ICT | 2+1 |
+| 2 | MT1001 Applied Calculus | 3+0 |
+| 3 | NS1007 Applied Physics | 2+1 |
+| 4 | ME1001 Engineering Drawing | 0+1 |
+| 5 | SS1007 Islamic Studies/Ethics | 2+0 |
+| 6 | SS1005 English Language Skills | 3+0 |
+| 7 | SS2043 Civics and Community Engagement | 2+0 |
+| Total | 14 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 2 |
+| 1 | EE1001 Linear Circuit Analysis | 3+1 |
+| 2 | CS1002 Programming Fundamentals | 3+1 |
+| 3 | EE1006 Engineering Workshop | 0+1 |
+| 4 | MT1009 Linear Algebra and Differential Equation | 4+0 |
+| 5 | SS1013 Ideology and Constitution of Pakistan | 2+0 |
+| 6 | MG1008 Occupational Health and Safety | 1+0 |
+| Total | 13 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 3 |
+| 1 | CS2002 Data Structures and Algorithms | 3+1 |
+| 2 | EE1004 Electronic Devices and Circuits | 3+1 |
+| 3 | EE2004 Electrical Network Analysis | 3+1 |
+| 4 | MT2008 Multivariable Calculus | 3+0 |
+| 5 | MT2003 Complex Variables and Transform | 3+0 |
+| Total | 15 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 4 |
+| 1 | EE2008 Signals and Systems | 3+1 |
+| 2 | EE1005 Digital Logic Design | 3+1 |
+| 3 | EE2011 Probability and Random Processes | 3+0 |
+| 4 | xxxxxx Multi-Disciplinary Engineering Elective | 3+0 |
+| 5 | EE2010 Electro Mechanical Systems | 3+1 |
+| Total | 15 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 5 |
+| 1 | EE3002 Microprocessor Interfacing and Programming | 3+1 |
+| 2 | EE3003 Analogue and Digital Communication | 3+1 |
+| 3 | EE3005 Electromagnetic Theory | 3+0 |
+| 4 | SS2001 Technical Communication Skills | 2+0 |
+| 5 | EExxxx Depth Core I | 3+1 |
+| Total | 14 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 6 |
+| 1 | EE2038 Power Distribution and Utilization | 3+1 |
+| 2 | EE3004 Feedback Control Systems | 3+1 |
+| 3 | MG2002 Engineering Economics | 2+0 |
+| 4 | EExxxx Depth Core II | 3+1 |
+| 5 | EExxxx Depth Elective III | 3+0 |
+| Total | 14 + 3 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 7 |
+| 1 | EE4091 Final Year Project - I | 3+0 |
+| 2 | EExxxx Depth Elective IV | 3+1 |
+| 3 | EExxxx Flexible Elective I | 3+1 |
+| 4 | MG3036 Engineering Management | 2+0 |
+| 5 | SS2007 Technical and Business Writing | 3+0 |
+| Total | 14 + 2 |
+
+| Sr. No | Course Name | Crdt Hrs. |
+| :-- | :-- | :-- |
+| Semester 8 |
+| 1 | EE4092 Final Year Project - II | 3+0 |
+| 2 | SS2013 Entrepreneurship | 2+0 |
+| 3 | EExxxx Depth Elective V | 3+1 |
+| 4 | EExxxx Flexible Elective II | 3+1 |
+| 5 | EExxxx Flexible Elective III | 3+0 |
+| Total | 14 + 2 |
+
+| Domain | Cr. Hrs |
+| :-- | :-- |
+| Computing | 11 |
+| Electrical Engineering | 83 |
+| Other Engineering | 5 |
+| Management Sciences | 6 |
+| Natural Sciences | 16 |
+| Humanities | 14 |
+| Total | 135 |
+
+Note 1:Total:135Note 2:Registration in “Project-I” is allowed provided the student has
+
+    earned at least 95 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+Note 1:Total:135
+
+Note 2:Registration in “Project-I” is allowed provided the student has
+
+    earned at least 95 credit hours, and his/her CGPA is equal to or greater than the graduating CGPA (2.0).
+
+1. Creativity:Employ best practices and advances in engineering to create innovative sustainable solutions for the complex engineering problems faced by industry, society and environment under constraints of limited resources.
+2. Conduct:Uphold a responsible, professional, and ethical conduct with interpersonal skills.
+3. Leadership:Emerge as team leaders in their domain of expertise and in activities that support service and economic development, nationally and throughout the world.
+4. Versatility:Practice electrical engineering in a broad range of industries in a multicultural environment and adapt to embrace new technologies.
+
+1. An ability to apply knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.
+2. An ability to identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.
+3. An ability to design solutions for complex engineering problems and design systems, components or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations.
+4. An ability to investigate complex engineering problems in a methodical way including literature survey, design and conduct of experiments, analysis and interpretation of experimental data, and synthesis of information to derive valid conclusions.
+5. An ability to create, select and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities, with an understanding of the limitations.
+6. An ability to apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues and the responsibilities relevant to professional engineering practice and solution to complex engineering problems
+7. An ability to understand the impact of professional engineering solutions in societal and environmental contexts and demonstrate knowledge of and need for sustainable development.
+8. Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice.
+9. An ability to work effectively, as an individual or in a team, on multifaceted and /or multidisciplinary settings.
+10. An ability to communicate effectively, orally as well as in writing, on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+11. An ability to demonstrate management skills and apply engineering principles to one’s own work, as a member and/or leader in a team, to manage projects in a multidisciplinary environment.
+12. Ability to recognize importance of, and pursue lifelong learning in the broader context of innovation and technological developments.
+
+FAST-House
+
+Rohtas Road, G-9/4
+
+Islamabad - 44000

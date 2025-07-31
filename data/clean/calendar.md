@@ -1,0 +1,48 @@
+## Academic Calender
+
+1. Home
+2. Student
+3. Academic Calender
+
+An academic year is divided into two semesters namely SPRING and FALL, each of 17 weeks duration. The SPRING semester starts in January and concludes in June. The FALL semester starts in August and concludes in December.
+
+## Tentative Academic Schedule for year 2025
+
+|  | Spring 2025 | Fall 2025 |
+| :-- | :-- | :-- |
+| Registration | Jan 16 to 18 (Tue to Sat) | Aug 11 to 15 (Mon to Fri) |
+| First Day of Classes | Jan 20 (Mon) | Aug 18 (Mon) |
+| First Sessional Examinations | Feb 22 to 25 (Sat to Tue) | Sep 20 to 23 (Sat to Tue) |
+| Second Sessional Examinations | Apr 5 to 8 (Sat to Tue) | Nov 1 to 4 (Sat to Tue) |
+| Last Day of Classes | May 9 (Fri) | Dec 5 (Fri) |
+| Final Examinations | May 19 to Jun 6 (Mon to Fri) | Dec 15 to Jan 2 (Mon to Fri) |
+| Announcements of Results | Jun 09 (Mon) | Jan 12 (Mon) |
+| * Date may change as per govt of Pakistan instructions. |
+
+## Summer Semester
+
+Summer semester may be organized in June-July at the discretion of the campus. Only a limited number of‘taught courses’may be offered in the summer semester. Preference is given to final year students and then to junior batches, in order of their seniority.
+
+As thesummer semester is not a regular semester, therefore, Registration in Project/ Dissertation/ Thesis is not allowed in the summer semester.Withdrawalfrom course(s) is not allowed in summer semester.
+
+## Expected Holidays during the year 2023 - 24
+
+|  | 2023 | 2024 |
+| :-- | :-- | :-- |
+| Kashmir Day |  | Feb - 5 (Mon) |
+| Pakistan Day |  | Mar - 23 (Sat) |
+| Labour Day |  | May - 1 (Wed) |
+| Eid-ul-Fitr * |  | Apr 10 - 12	(Wed - Fri) |
+| Eid-ul-Adha * |  | Jun 17 - Jun 19	(Mon - Wed) |
+| Ashura * | Jul 27 - 28 (Thu - Fri) | Jul 16 - 17 (Tue - Wed) |
+| Independence Day | Aug - 14 (Mon) | Aug - 14 (Wed) |
+| Eid Meelad-un-Nabi * | Sep - 27 (wed) | Sep - 16 (Mon) |
+| Quaid’s Birthday | Dec - 25 (Mon) | Dec - 25 (Wed) |
+
+*Subject to lunar calendar
+
+FAST-House
+
+Rohtas Road, G-9/4
+
+Islamabad - 44000
