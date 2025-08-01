@@ -1,4 +1,4 @@
-## Test Pattern
+# Test Pattern
 
 1. Home
 2. Admissions
@@ -20,9 +20,3 @@ Note:There will be Negative Marking and use of calculators is not allowed in the
 ## Download PhD Admission Test Fall 2025 Guidelines
 
 - PhD (CS), PhD (EE), PhD (MG), PhD (Eng. Ling) & PhD (Math)
-
-FAST-House
-
-Rohtas Road, G-9/4
-
-Islamabad - 44000

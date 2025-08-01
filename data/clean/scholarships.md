@@ -1,8 +1,4 @@
-## Financial Assistance/Scholarships Information
-
-1. Home
-2. Admissions
-3. Scholarship
+# Financial Assistance/Scholarships Information
 
 ## Merit Scholarships for Bachelor Students
 

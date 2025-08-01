@@ -1,0 +1,39 @@
+[RECEIVED] Query: Explain me the grading scheme of FAST
+[RECEIVED] Query: Explain me the grading scheme of FAST with the whole table and which grade is given to how much marks etc?
+[RECEIVED] Query: Explain the role of DC in FAST
+[RECEIVED] Query: What courses are offered throughout the BSCS program in FAST
+[RECEIVED] Query: Enlist everything you know about FAST from the database
+[RECEIVED] Query: Grading
+[RECEIVED] Query: Explain me the grading scheme of FAST
+[RECEIVED] Query: Admission criteria for BSCS
+[RECEIVED] Query: Admission criteria for BSCS in undergraduate programs and computing degrees
+[RECEIVED] Query: Admission criteria for PhD in computing degrees
+[RECEIVED] Query: Test pattern?
+[RECEIVED] Query: Can you give me the test pattern for computing degrees as FAST
+[RECEIVED] Query: Can you give me the test pattern for BS(CS/Engg) at FAST
+[RECEIVED] Query: Explain me the study loan and it's repayment
+[RECEIVED] Query: Enlist all the programs offered at FAST Islamabad campus
+[RECEIVED] Query: Enlist all the BS programs offered at FAST Islamabad campus
+[RECEIVED] Query: Enlist all the campuses that offer BS(CV)
+[RECEIVED] Query: Enlist all the campuses that offer PhD(CV)
+[RECEIVED] Query: programs
+[RECEIVED] Query: Admission criteria for SAT
+[RECEIVED] Query: Admission criteria for SAT in depth
+[RECEIVED] Query: Guide me in depth about warning and course improvement
+[RECEIVED] Query: Explain me the letter grades for BS programs
+[RECEIVED] Query: Explain me the letter grades for BS, MS, and PhD programs and at the end draw conclusions by comparing them
+[RECEIVED] Query: Explain me the grading scheme of FAST BS programs
+[RECEIVED] Query: What CS courses does FAST offer in BSCS
+[RECEIVED] Query: Explain me the Fee structure in deoth and then enlist all financial aid and scholarships
+[RECEIVED] Query: Explain me the Fee structure in depth of BS programs
+[RECEIVED] Query: Fee structure?
+[RECEIVED] Query: Fee structure and tuition fee
+[RECEIVED] Query: explain me the different fees in FAST including misc and tuition
+[RECEIVED] Query: Miscellaneous Fees (w.e.f. Fall 2024 semester)
+[RECEIVED] Query: What career opportunities do I have after studying computer science at FAST
+[RECEIVED] Query: Program Offered
+[RECEIVED] Query: Grading Scheme
+[RECEIVED] Query: Grading system, explain in depth
+[RECEIVED] Query: Grading system, explain in depth with letters etc
+[RECEIVED] Query: Explain me the grading and related stuff in FAST
+[RECEIVED] Query: Explain me the fee structure at FAST

@@ -1,60 +1,59 @@
-from sentence_transformers import SentenceTransformer
-import chromadb
-import json
+from langchain_community.vectorstores import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
 import os
+import json
 from tqdm import tqdm
+
+import shutil
+
 
 # === Paths ===
 data_dir = "../data/chunks"
-db_dir = "../data/vector_store"
-os.makedirs(db_dir, exist_ok=True)
+CHROMA_PATH = "../data/vector_store"
+os.makedirs(CHROMA_PATH, exist_ok=True)
 
-# === Initialize Persistent ChromaDB ===
-chroma_client = chromadb.PersistentClient(path=db_dir)
-collection = chroma_client.get_or_create_collection(name="fast_chunks")
+shutil.rmtree(CHROMA_PATH, ignore_errors=True)
 
 # === Load embedding model ===
-model = SentenceTransformer("all-MiniLM-L6-v2")
+embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
-# === Collect data ===
-documents, metadatas, ids = [], [], []
-doc_id = 0
+# === Collect text chunks and metadata ===
+texts, metadatas = [], []
 
 for file in os.listdir(data_dir):
     if file.endswith(".jsonl"):
         with open(os.path.join(data_dir, file), "r", encoding="utf-8") as f:
             for line in f:
                 record = json.loads(line)
-                content = record["content"].strip()
-                if not content:
-                    continue
-                documents.append(content)
-                metadatas.append({
-                    "title": record.get("title", ""),
-                    "heading": record.get("heading", "")
-                })
-                ids.append(str(doc_id))
-                doc_id += 1
 
-# === Batch embedding and storage ===
-batch_size = 32
-for i in tqdm(range(0, len(documents), batch_size)):
-    batch_docs = documents[i:i+batch_size]
-    batch_ids = ids[i:i+batch_size]
-    batch_meta = metadatas[i:i+batch_size]
+                title = record.get("title", "")
+                heading = record.get("heading", "")
+                sections = record.get("sections", [])
 
-    embeddings = model.encode(
-        batch_docs,
-        show_progress_bar=False,
-        convert_to_numpy=True,
-        normalize_embeddings=True
-    ).tolist()
+                for section in sections:
+                    content = section.get("content", "").strip()
+                    if content:
+                        texts.append(content)
+                        metadatas.append({
+                            "title": title,
+                            "file_heading": heading,
+                            "section_heading": section.get("heading", "")
+                        })
 
-    collection.add(
-        documents=batch_docs,
-        metadatas=batch_meta,
-        ids=batch_ids,
-        embeddings=embeddings
-    )
+# === Sanity check
+if not texts:
+    print("❌ No content found for embedding. Check your input files.")
+    exit()
 
-print(f"✅ All chunks embedded and stored in persistent vector DB at: {db_dir}")
+# === Embed and persist to Chroma ===
+print(f"📄 Embedding {len(texts)} sections...")
+vectorstore = Chroma.from_texts(
+    texts=texts,
+    embedding=embedding_model,
+    metadatas=metadatas,
+    persist_directory=CHROMA_PATH
+)
+
+vectorstore.persist()  # Safe for older LangChain versions
+
+print(f"✅ Successfully embedded and stored {len(texts)} sections.")

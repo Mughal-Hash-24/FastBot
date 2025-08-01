@@ -1,4 +1,4 @@
-## How To Apply
+# How To Apply
 
 1. Home
 2. Admissions

@@ -1,4 +1,4 @@
-## FAQ
+# FAQ
 
 1. Home
 2. Admissions

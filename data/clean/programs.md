@@ -1,8 +1,4 @@
-## Program Offered
-
-1. Home
-2. Admissions
-3. Program Offered
+# Program Offered
 
 Note:TheNUCESoffers Under-graduate, Graduate and Postgraduate programs in following disciplines.
 

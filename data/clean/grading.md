@@ -1,4 +1,4 @@
-## Academic Grading
+# Academic Grading
 
 1. Home
 2. Student

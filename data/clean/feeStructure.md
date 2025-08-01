@@ -1,8 +1,4 @@
-## Fee Structure
-
-1. Home
-2. Admissions
-3. Fee Structure
+# Fee Structure
 
 ## Admission Fee
 
@@ -68,9 +64,3 @@ Fee can be paid using any one of the following methods:Print the challan form an
 
 1. Print the challan form and then visit any nearest Faysal bank branch for cash deposit.
 2. Via bank account using Kuickpay payment gateway.Step 1:Sign in to your Internet Banking, Mobile Banking or visit an ATM machineStep 2:Select Bill Payment / Payments and then select ‘kuickpay’ from given categoriesStep 3:Enter the voucher or invoice number & continue. Make sure to enter Institution ID as prefix (mentioned on challan)Step 4:Confirm your voucher details and proceed to payment. Payment alerts will be received accordingly.*Customers of following Banks can avail Kuickpay serviceAllied Bank, Askari Bank, Bank Al Habib, Bank Alfalah, Bank Islami, Bank of Punjab, Dubai Islamic Bank, Faysal Bank, First Women Bank, Habib Metro Bank, Habib Bank Limited, JS Bank, MCB Bank, MCB Islamic Bank, Meezan Bank, National Bank, NRSP Bank, SAMBA Bank, Soneri bank, Summit Bank, UBL and Keenu App.** Easy paisa and JazzCash can also be used for payment via kuickpay. (Transaction Limit apply)For further clarification, please visit:https://app.kuickpay.com/PaymentsBillPayment
-
-FAST-House
-
-Rohtas Road, G-9/4
-
-Islamabad - 44000

@@ -1,4 +1,4 @@
-## Code of Conduct
+# Code of Conduct
 
 1. Home
 2. Student
