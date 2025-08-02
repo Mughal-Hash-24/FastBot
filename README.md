@@ -31,7 +31,8 @@ This project combines **LangChain**, **HuggingFace Embeddings**, **ChromaDB**, a
 ┣ 📁 data/
 ┃ ┗ 📁 vector_store/        # Chroma DB with embedded documents
 ┣ 📁 logs/                  # Logs directory
-┣ 📄 main.py                # FastAPI app + LangChain logic
+┣ 📁 app/
+┃ ┗ 📄 main.py                # FastAPI app + LangChain logic
 ┣ 📄 .env                   # Contains GROQ_API_KEY (not committed)
 ┣ 📄 .replit                # Replit-specific run config
 ┣ 📄 requirements.txt       # All Python dependencies
@@ -49,7 +50,6 @@ This project combines **LangChain**, **HuggingFace Embeddings**, **ChromaDB**, a
 | 🌐 Backend | FastAPI | REST API |
 | 🌍 Frontend | HTML/CSS + JavaScript | Simple chat UI |
 | 🔐 Secrets | .env file | API Key storage |
-| ☁️ Hosting | Replit + Vercel | Backend + Frontend deployment |
 
 ## 🚀 Workflow
 
@@ -72,7 +72,7 @@ User → [Frontend] → Sends query → [FastAPI Backend]
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Mughal-Hash-24/FastBot
-   cd FasTBot
+   cd FastBot
    ```
 
 2. **Install dependencies**
@@ -114,7 +114,6 @@ The default frontend uses vanilla HTML + JavaScript and `marked.js` to render ma
 
 | Platform | Use Case | Notes |
 |----------|----------|-------|
-| 🆓 **Replit** | Backend Hosting | No credit card required, provides public URL |
 | 🆓 **Vercel** | Frontend Hosting | Ideal for static frontend deployment |
 
 ### Deployment Steps
