@@ -50,7 +50,6 @@ This project combines **LangChain**, **HuggingFace Embeddings**, **ChromaDB**, a
 | 🌐 Backend | FastAPI | REST API |
 | 🌍 Frontend | HTML/CSS + JavaScript | Simple chat UI |
 | 🔐 Secrets | .env file | API Key storage |
-| ☁️ Hosting | Replit + Vercel | Backend + Frontend deployment |
 
 ## 🚀 Workflow
 
@@ -115,7 +114,6 @@ The default frontend uses vanilla HTML + JavaScript and `marked.js` to render ma
 
 | Platform | Use Case | Notes |
 |----------|----------|-------|
-| 🆓 **Replit** | Backend Hosting | No credit card required, provides public URL |
 | 🆓 **Vercel** | Frontend Hosting | Ideal for static frontend deployment |
 
 ### Deployment Steps
