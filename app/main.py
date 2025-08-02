@@ -33,8 +33,8 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://nuhub.vercel.app",  # ✅ Production frontend
-        "http://localhost:5500"      # ✅ Dev local testing
+        "https://nuhub.vercel.app",  # Production frontend
+        "http://localhost:5500"      # Dev local testing
     ],
     allow_credentials=True,
     allow_methods=["POST", "OPTIONS"],
