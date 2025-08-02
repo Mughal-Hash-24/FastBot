@@ -31,7 +31,8 @@ This project combines **LangChain**, **HuggingFace Embeddings**, **ChromaDB**, a
 ┣ 📁 data/
 ┃ ┗ 📁 vector_store/        # Chroma DB with embedded documents
 ┣ 📁 logs/                  # Logs directory
-┣ 📄 main.py                # FastAPI app + LangChain logic
+┣ 📁 app/
+┃ ┗ 📄 main.py                # FastAPI app + LangChain logic
 ┣ 📄 .env                   # Contains GROQ_API_KEY (not committed)
 ┣ 📄 .replit                # Replit-specific run config
 ┣ 📄 requirements.txt       # All Python dependencies
