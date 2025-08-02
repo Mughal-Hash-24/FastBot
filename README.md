@@ -73,7 +73,7 @@ User → [Frontend] → Sends query → [FastAPI Backend]
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Mughal-Hash-24/FastBot
-   cd FasTBot
+   cd FastBot
    ```
 
 2. **Install dependencies**
