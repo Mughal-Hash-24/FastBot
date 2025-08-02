@@ -54,3 +54,121 @@
 2025-08-01 20:53:40,920 - INFO - \U0001f50d Retrieved 4 relevant document(s).
 2025-08-01 20:53:42,056 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-08-01 20:53:42,060 - INFO - \u2705 Answer generated. Length: 313 characters.
+2025-08-02 14:48:16,071 - INFO - \U0001f680 Starting FASTBot server...
+2025-08-02 14:49:01,168 - INFO - Use pytorch device_name: cpu
+2025-08-02 14:49:01,168 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 14:49:08,227 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 14:49:09,022 - INFO - \U0001f4da Loaded vector store with 64 documents.
+2025-08-02 14:49:36,930 - INFO - \U0001f4e5 Query received: Letter grading system at FAST?
+2025-08-02 14:49:37,062 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 14:49:39,139 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 14:49:39,167 - INFO - \u2705 Answer generated. Length: 1330 characters.
+2025-08-02 14:54:02,984 - INFO - \U0001f4e5 Query received: Explain me the letter grading system at FAST?
+2025-08-02 14:54:03,016 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 14:54:06,195 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 14:54:06,197 - INFO - \u2705 Answer generated. Length: 2151 characters.
+2025-08-02 14:56:45,767 - INFO - \U0001f4e5 Query received: Letter grading system at FAST
+2025-08-02 14:56:45,792 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 14:56:48,154 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 14:56:48,158 - INFO - \u2705 Answer generated. Length: 1221 characters.
+2025-08-02 14:57:02,464 - INFO - \U0001f4e5 Query received: Fee structure?
+2025-08-02 14:57:02,494 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 14:57:03,246 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 14:57:03,249 - INFO - \u2705 Answer generated. Length: 144 characters.
+2025-08-02 14:57:16,310 - INFO - \U0001f4e5 Query received: Fee structure with the tuition fee and misc
+2025-08-02 14:57:16,352 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 14:57:17,703 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 14:57:17,707 - INFO - \u2705 Answer generated. Length: 952 characters.
+2025-08-02 14:58:45,895 - INFO - \U0001f4e5 Query received: Hello how are you?
+2025-08-02 14:58:45,916 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 14:58:46,901 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 14:58:46,905 - INFO - \u2705 Answer generated. Length: 243 characters.
+2025-08-02 14:59:12,954 - INFO - \U0001f4e5 Query received: What are your specialities and what makes you different from a plain llama model?
+2025-08-02 14:59:12,988 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 14:59:13,908 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 14:59:13,909 - INFO - \u2705 Answer generated. Length: 332 characters.
+2025-08-02 14:59:33,763 - INFO - \U0001f4e5 Query received: what exactly is the provided context?
+2025-08-02 14:59:33,802 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 14:59:35,312 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 14:59:35,316 - INFO - \u2705 Answer generated. Length: 995 characters.
+2025-08-02 15:00:22,304 - INFO - \U0001f4e5 Query received: Explain me everything I need to know about plagarism at FAST
+2025-08-02 15:00:22,335 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 15:00:23,601 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:00:23,602 - INFO - \u2705 Answer generated. Length: 616 characters.
+2025-08-02 15:00:58,638 - INFO - \U0001f4e5 Query received: What is the disciplernary commitee
+2025-08-02 15:00:58,673 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 15:00:59,584 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:00:59,586 - INFO - \u2705 Answer generated. Length: 393 characters.
+2025-08-02 15:01:46,910 - INFO - \U0001f4e5 Query received: Explain to me what are the courses that are offered at BS CS level?
+2025-08-02 15:01:46,941 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 15:01:48,269 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:01:48,271 - INFO - \u2705 Answer generated. Length: 657 characters.
+2025-08-02 15:03:07,512 - INFO - \U0001f4e5 Query received: Letter grading scheme
+2025-08-02 15:03:07,533 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 15:03:09,957 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:03:09,959 - INFO - \u2705 Answer generated. Length: 1215 characters.
+2025-08-02 15:04:47,463 - INFO - \U0001f4e5 Query received: Explain to me what percentage marks I need in order to secure an A+ in a BS program's course
+2025-08-02 15:04:47,494 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 15:04:49,067 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:04:49,071 - INFO - \u2705 Answer generated. Length: 452 characters.
+2025-08-02 15:14:13,205 - INFO - \U0001f680 Starting FASTBot server...
+2025-08-02 15:14:19,860 - INFO - Use pytorch device_name: cpu
+2025-08-02 15:14:19,860 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 15:14:26,139 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 15:14:26,307 - INFO - \U0001f4da Loaded vector store with 94 documents.
+2025-08-02 15:14:58,039 - INFO - \U0001f4e5 Query received: What CS courses are offered in the 3rd semester of BSCS
+2025-08-02 15:14:58,156 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 15:14:59,065 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-02 15:15:34,125 - INFO - \U0001f4e5 Query received: What CS courses are offered in the 3rd semester of BSCS
+2025-08-02 15:15:34,143 - INFO - \U0001f50d Retrieved 4 relevant document(s).
+2025-08-02 15:15:34,493 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-02 15:18:13,721 - INFO - \U0001f680 Starting FASTBot server...
+2025-08-02 15:18:23,503 - INFO - Use pytorch device_name: cpu
+2025-08-02 15:18:23,503 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 15:18:30,718 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 15:18:35,112 - INFO - \U0001f680 Starting FASTBot server...
+2025-08-02 15:18:41,621 - INFO - Use pytorch device_name: cpu
+2025-08-02 15:18:41,621 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 15:18:48,514 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 15:18:48,703 - INFO - \U0001f4da Loaded vector store with 94 documents.
+2025-08-02 15:18:52,977 - INFO - \U0001f680 Starting FASTBot server...
+2025-08-02 15:18:59,424 - INFO - Use pytorch device_name: cpu
+2025-08-02 15:18:59,424 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 15:19:06,069 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 15:19:25,182 - INFO - \U0001f680 Starting FASTBot server...
+2025-08-02 15:19:31,613 - INFO - Use pytorch device_name: cpu
+2025-08-02 15:19:31,613 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 15:19:37,525 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 15:19:37,706 - INFO - \U0001f4da Loaded vector store with 94 documents.
+2025-08-02 15:20:08,262 - INFO - \U0001f4e5 Query received: What CS courses are offered in the 3rd semester of BSCS
+2025-08-02 15:20:08,376 - INFO - \U0001f50d Retrieved 2 relevant document(s).
+2025-08-02 15:20:09,952 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:20:09,988 - INFO - \u2705 Answer generated. Length: 339 characters.
+2025-08-02 15:20:31,590 - INFO - \U0001f4e5 Query received: All the courses in 2nd and 3rd semester of CS
+2025-08-02 15:20:31,623 - INFO - \U0001f50d Retrieved 2 relevant document(s).
+2025-08-02 15:20:31,927 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 15:20:31,928 - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2025-08-02 15:20:38,649 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:20:38,651 - INFO - \u2705 Answer generated. Length: 562 characters.
+2025-08-02 15:21:30,807 - INFO - \U0001f4e5 Query received: Can you give me the tables of courses offered at BS CS throughout the 8 semesters
+2025-08-02 15:21:30,846 - INFO - \U0001f50d Retrieved 2 relevant document(s).
+2025-08-02 15:21:35,556 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:21:35,560 - INFO - \u2705 Answer generated. Length: 2841 characters.
+2025-08-02 15:23:17,064 - INFO - \U0001f4e5 Query received: What id the total number of cred hours in BS CS
+2025-08-02 15:23:17,133 - INFO - \U0001f50d Retrieved 2 relevant document(s).
+2025-08-02 15:23:18,055 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:23:18,059 - INFO - \u2705 Answer generated. Length: 84 characters.
+2025-08-02 15:26:21,087 - INFO - \U0001f4e5 Query received: Do you have the context of what we have discussed above?
+2025-08-02 15:26:21,162 - INFO - \U0001f50d Retrieved 2 relevant document(s).
+2025-08-02 15:26:22,484 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 15:26:22,488 - INFO - \u2705 Answer generated. Length: 610 characters.
+2025-08-02 15:59:46,023 - INFO - \U0001f680 Starting FASTBot server...
+2025-08-02 15:59:59,744 - INFO - Use pytorch device_name: cpu
+2025-08-02 15:59:59,744 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 16:00:08,187 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 16:00:08,556 - INFO - \U0001f4da Loaded vector store with 94 documents.
+2025-08-02 16:00:45,564 - INFO - \U0001f680 Starting FASTBot server...
+2025-08-02 16:00:58,682 - INFO - Use pytorch device_name: cpu
+2025-08-02 16:00:58,682 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 16:01:07,327 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 16:01:07,657 - INFO - \U0001f4da Loaded vector store with 94 documents.

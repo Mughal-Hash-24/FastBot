@@ -2,8 +2,8 @@ import os
 import re
 import json
 
-input_dir = "../data/clean"
-output_dir = "../data/chunks"
+input_dir = "../data/clean/programs"
+output_dir = "../data/chunks/programs_v2"
 os.makedirs(output_dir, exist_ok=True)
 
 def parse_markdown_sections(file_path, title):

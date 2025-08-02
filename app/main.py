@@ -32,9 +32,12 @@ app = FastAPI()
 # === CORS Configuration ===
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://127.0.0.1:5500"],
+    allow_origins=[
+        "https://nuhub.vercel.app",  # ✅ Production frontend
+        "http://localhost:5500"      # ✅ Dev local testing
+    ],
     allow_credentials=True,
-    allow_methods=["POST", "OPTIONS"],  # Add OPTIONS explicitly
+    allow_methods=["POST", "OPTIONS"],
     allow_headers=["*"],
 )
 
@@ -48,7 +51,7 @@ vector_store = Chroma(
     persist_directory=os.path.abspath(CHROMA_PATH),
     embedding_function=embedding_model
 )
-retriever = vector_store.as_retriever()
+retriever = vector_store.as_retriever(search_kwargs={"k":2})
 
 doc_count = len(vector_store.get().get("documents", []))
 logging.info(f"📚 Loaded vector store with {doc_count} documents.")
